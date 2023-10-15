@@ -1,0 +1,13 @@
+Z:\senai\Projeto_Web-Lh_Pets_Alunos\bin\Release\net7.0\publish\Projeto_Web-Lh_Pets_Alunos.exe
+Z:\senai\Projeto_Web-Lh_Pets_Alunos\bin\Release\net7.0\publish\appsettings.Development.json
+Z:\senai\Projeto_Web-Lh_Pets_Alunos\bin\Release\net7.0\publish\appsettings.json
+Z:\senai\Projeto_Web-Lh_Pets_Alunos\bin\Release\net7.0\publish\Projeto_Web-Lh_Pets_Alunos.dll
+Z:\senai\Projeto_Web-Lh_Pets_Alunos\bin\Release\net7.0\publish\Projeto_Web-Lh_Pets_Alunos.deps.json
+Z:\senai\Projeto_Web-Lh_Pets_Alunos\bin\Release\net7.0\publish\Projeto_Web-Lh_Pets_Alunos.runtimeconfig.json
+Z:\senai\Projeto_Web-Lh_Pets_Alunos\bin\Release\net7.0\publish\Projeto_Web-Lh_Pets_Alunos.pdb
+Z:\senai\Projeto_Web-Lh_Pets_Alunos\bin\Release\net7.0\publish\System.Data.SqlClient.dll
+Z:\senai\Projeto_Web-Lh_Pets_Alunos\bin\Release\net7.0\publish\runtimes\win-arm64\native\sni.dll
+Z:\senai\Projeto_Web-Lh_Pets_Alunos\bin\Release\net7.0\publish\runtimes\win-x64\native\sni.dll
+Z:\senai\Projeto_Web-Lh_Pets_Alunos\bin\Release\net7.0\publish\runtimes\win-x86\native\sni.dll
+Z:\senai\Projeto_Web-Lh_Pets_Alunos\bin\Release\net7.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\senai\Projeto_Web-Lh_Pets_Alunos\bin\Release\net7.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
